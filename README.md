@@ -2,6 +2,12 @@
 
 Developed with Unreal Engine 4
 
+## Controls
+Press WASD to move
+Move the mouse to look around
+Press TAB to open the inventory
+Press the Escape key to quit the game
+
 ## What this system does:
 This system is an inventory system used to store and use items. The player can create and interact with the abstract obejects that they make.
 This can be used for a varity of things like an rpg game.
