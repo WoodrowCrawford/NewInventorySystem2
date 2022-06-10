@@ -20,7 +20,7 @@ anything.
 After you make the blueprint, you have to add it to the inventory. Open the third person character blueprint and select inventory. Look for default items. From there, you can create an
 array of items for the inventory. You can also edit/remove existing items from here.
 
-# Releases:
+# Releases: https://github.com/WoodrowCrawford/NewInventorySystem2/releases/download/v1.0/NewInventorySystem2Demo.zip
 
 
 Note: This assest relies on the third person character blueprint in order to work properly.
